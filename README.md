@@ -1,3 +1,7 @@
+
+# Final uppdate
+Commit with updated code
+
 # Overview
 This exercise is intentionally left open ended.  Within you will find a skeleton code base and a json file intended to simulate a database.
 
@@ -14,6 +18,7 @@ Implement the above listed requirements in a manner you see fitting.  Demonstrat
 
 # Publish
 Publish your implementation under your own github account
+
 
 # Final uppdate
 Commit with updated code
