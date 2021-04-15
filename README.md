@@ -13,4 +13,7 @@ This exercise is intentionally left open ended.  Within you will find a skeleton
 Implement the above listed requirements in a manner you see fitting.  Demonstrate design and implementation aspects you feel are important in a software project.
 
 # Publish
-Publish your implementation under your own github account.
+Publish your implementation under your own github account
+
+# Final uppdate
+Commit with updated code
