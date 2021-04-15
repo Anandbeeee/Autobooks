@@ -1,5 +1,5 @@
 
-# Final uppdate
+# Final update
 Commit with updated code
 
 # Overview
@@ -20,5 +20,5 @@ Implement the above listed requirements in a manner you see fitting.  Demonstrat
 Publish your implementation under your own github account
 
 
-# Final uppdate
+# Final update
 Commit with updated code
